@@ -1,0 +1,13 @@
+.nav{
+    height: 83vh;
+}
+
+.navbar-nav .nav-item .link{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* .navbar-nav.nav-item img{
+    width: 50%;
+    height: 50%;
+} */
